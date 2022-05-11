@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NastyBone
 - 👀 I’m interested in get a job as Junior WebDev
-- 🌱 I’m currently learning JS, CSS, React and so
+- 🌱 I’m currently learning Angular and Postgresql
 - 💞️ I’m looking to collaborate on projects to add to my curriculum
 - 📫 Message me on Telegram as @Nastybone
 
